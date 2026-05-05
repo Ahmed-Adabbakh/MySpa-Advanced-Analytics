@@ -1,0 +1,501 @@
+booking_id,client_name,city,month,service_type,fnb_order,group_size,duration_hours,revenue_eur,supply_cost_eur,satisfaction_score,profit_eur
+1,Irmingard Aumann,Berlin,12,Group Session,Champagne,9,2,207,88,5,119
+2,Gertraud Scheuermann,Berlin,3,Group Session,Pizza,2,1,241,34,2,207
+3,Eckhart Tschentscher B.Eng.,Frankfurt,11,Private Spa,Champagne,6,3,531,76,2,455
+4,Gereon Heß,Munich,2,Group Session,Champagne,4,4,547,119,8,428
+5,Sieghard Hendriks,Munich,5,Couples Session,Coca Cola,8,1,80,110,4,-30
+6,Uta Wagner-Bolander,Munich,9,Group Session,Coca Cola,2,1,518,64,10,454
+7,Ing. Wigbert Tschentscher MBA.,Berlin,11,Couples Session,None,5,2,287,65,4,222
+8,Johanne Drewes B.Eng.,Darmstadt,11,Couples Session,Pizza,8,2,785,80,5,705
+9,Oscar Girschner MBA.,Berlin,10,Private Spa,Coca Cola,4,4,215,101,9,114
+10,Herr Hartmut Heinz,Darmstadt,6,Birthday Party,None,3,2,745,111,4,634
+11,Otmar Stolze,Hamburg,2,Couples Session,Pizza,2,3,389,27,6,362
+12,Sarah Wagner-Junken,Berlin,4,Group Session,Coca Cola,1,3,242,110,7,132
+13,Dipl.-Ing. Marlen Austermühle B.Eng.,Berlin,11,Group Session,Champagne,5,1,360,56,5,304
+14,Dr. Stefani Pruschke,Berlin,5,Couples Session,Champagne,7,2,175,68,3,107
+15,Friedhold Kobelt MBA.,Munich,4,Group Session,Pizza,10,2,750,146,1,604
+16,Claus Sauer,Munich,4,Private Spa,Pizza,7,1,449,99,9,350
+17,Jasmina Schönland,Darmstadt,3,Group Session,Coca Cola,4,4,336,64,8,272
+18,Karl-Otto Weihmann-Radisch,Darmstadt,1,Private Spa,Coca Cola,3,2,164,145,4,19
+19,Freya Naser B.Sc.,Berlin,1,Couples Session,Pizza,6,2,460,29,8,431
+20,Elias Stiebitz,Darmstadt,4,Couples Session,Pizza,10,4,760,43,6,717
+21,Kasimir Henck MBA.,Munich,8,Couples Session,None,6,2,744,34,4,710
+22,Dr. Andrei Knappe,Darmstadt,10,Private Spa,None,4,3,249,79,1,170
+23,Geza Zahn MBA.,Hamburg,2,Group Session,None,3,3,133,76,1,57
+24,Wolf-Rüdiger Meyer B.A.,Munich,8,Private Spa,Champagne,8,4,485,25,2,460
+25,Klaas Mülichen-Bohlander,Hamburg,7,Group Session,Champagne,9,4,720,142,2,578
+26,Sevim Dörr,Darmstadt,11,Group Session,None,8,3,392,20,10,372
+27,Hildburg Beer,Frankfurt,10,Private Spa,None,8,3,796,104,8,692
+28,Gebhard Gunpf-Hering,Berlin,4,Birthday Party,Pizza,5,3,319,71,3,248
+29,Adam Dietz,Munich,12,Couples Session,Champagne,8,3,519,53,2,466
+30,Heiko Kobelt,Hamburg,12,Group Session,None,1,4,751,107,9,644
+31,Dr. Katja Gertz,Frankfurt,7,Group Session,Coffee,2,4,173,65,2,108
+32,Prof. Zofia Löffler,Frankfurt,8,Private Spa,Coca Cola,7,1,800,102,2,698
+33,Herr Waldemar Tröst,Munich,7,Birthday Party,None,9,4,177,35,5,142
+34,Anna-Luise Wirth,Munich,4,Couples Session,Champagne,8,3,81,25,4,56
+35,Kevin Tschentscher-Lübs,Frankfurt,3,Birthday Party,None,4,2,298,57,8,241
+36,Dipl.-Ing. Irmhild Carsten,Berlin,11,Couples Session,Coffee,4,3,568,56,5,512
+37,Univ.Prof. Dragan Schönland B.Eng.,Berlin,12,Group Session,Pizza,10,3,159,48,5,111
+38,Siegbert Thanel,Hamburg,1,Group Session,Champagne,6,4,215,113,8,102
+39,Karl-Dieter Wulff,Berlin,2,Private Spa,Pizza,1,1,687,38,1,649
+40,Massimo Weihmann B.A.,Frankfurt,7,Private Spa,Coca Cola,1,2,311,115,2,196
+41,Sara Bolander,Frankfurt,4,Birthday Party,Pizza,5,2,611,121,3,490
+42,Rebecca Lehmann MBA.,Darmstadt,3,Birthday Party,None,8,1,776,45,1,731
+43,Dr. Nico Gutknecht,Frankfurt,12,Couples Session,Coffee,10,3,535,106,5,429
+44,Timo Budig,Berlin,9,Private Spa,Pizza,8,4,89,97,6,-8
+45,Herr Meinrad Scheibe,Hamburg,8,Group Session,Coffee,5,3,88,102,6,-14
+46,Josef Kitzmann,Darmstadt,1,Private Spa,Champagne,9,2,792,54,7,738
+47,Ing. Holger Säuberlich,Berlin,9,Birthday Party,Champagne,1,2,431,60,2,371
+48,Heribert Geisler,Hamburg,4,Private Spa,None,2,3,203,131,2,72
+49,Ing. Gunda Heuser B.A.,Berlin,2,Group Session,None,7,2,512,144,1,368
+50,Rocco Beer B.Eng.,Darmstadt,8,Private Spa,None,3,4,790,101,1,689
+51,Ljiljana Stahr B.Sc.,Frankfurt,3,Birthday Party,Coffee,5,2,215,64,3,151
+52,Kay-Uwe Pergande,Darmstadt,8,Group Session,Coca Cola,6,4,569,111,3,458
+53,Geraldine Wieloch-Juncken,Frankfurt,11,Couples Session,Coca Cola,7,3,152,77,6,75
+54,Mirella Stoll,Darmstadt,9,Couples Session,Coca Cola,6,3,314,64,6,250
+55,Geza Vollbrecht B.A.,Munich,9,Group Session,Champagne,1,4,472,116,8,356
+56,Nadeshda Klemt B.Sc.,Berlin,10,Group Session,Champagne,7,4,171,98,10,73
+57,Renato Freudenberger,Berlin,6,Group Session,Coca Cola,1,4,184,95,5,89
+58,Dr. Edith Killer B.Eng.,Munich,8,Birthday Party,None,10,2,185,52,2,133
+59,Dipl.-Ing. Gregor Gehringer,Frankfurt,10,Group Session,Pizza,9,3,400,65,6,335
+60,Ferdinand Graf-Flantz,Berlin,12,Birthday Party,Coca Cola,4,2,456,20,6,436
+61,Prof. Gudrun Gröttner B.A.,Munich,9,Group Session,Pizza,6,2,386,120,3,266
+62,Dr. Isa Dussen van MBA.,Berlin,7,Birthday Party,Coca Cola,9,4,220,28,2,192
+63,Bertha Gumprich,Hamburg,9,Birthday Party,Pizza,5,2,471,66,7,405
+64,Melanie Kensy-Nerger,Frankfurt,8,Private Spa,None,2,1,216,101,7,115
+65,Hilda Weinhage,Hamburg,3,Couples Session,Champagne,7,1,736,76,8,660
+66,Dipl.-Ing. Oswin Vollbrecht,Frankfurt,12,Group Session,Coca Cola,9,1,773,46,5,727
+67,Hans-Günter Trub B.Sc.,Munich,8,Couples Session,Coca Cola,8,1,226,147,7,79
+68,Bruno Schulz,Frankfurt,8,Couples Session,None,9,1,150,56,8,94
+69,Hansjoachim Margraf,Frankfurt,5,Private Spa,Coffee,5,4,623,104,7,519
+70,Johann Reising B.A.,Munich,4,Couples Session,Coca Cola,10,2,656,39,3,617
+71,Sarah Pärtzelt,Frankfurt,11,Couples Session,Pizza,10,2,88,80,2,8
+72,Heinz Dieter Conradi,Berlin,5,Group Session,None,2,1,704,108,3,596
+73,Nada Schaaf,Darmstadt,9,Birthday Party,Coffee,3,2,745,101,1,644
+74,Hellmut Hornich,Munich,8,Group Session,Coca Cola,2,1,248,62,3,186
+75,Slavica Dippel B.Eng.,Darmstadt,11,Group Session,Coca Cola,7,2,530,42,2,488
+76,Leonid Peukert,Munich,4,Couples Session,Champagne,6,4,439,105,7,334
+77,Ole Roskoth-Röhricht,Munich,5,Couples Session,Coffee,6,3,298,134,10,164
+78,Wolf Hendriks,Hamburg,8,Group Session,None,9,1,723,22,8,701
+79,Gereon Müller B.Sc.,Hamburg,2,Group Session,Pizza,6,4,235,87,10,148
+80,Katherina Sauer B.A.,Frankfurt,12,Couples Session,Coca Cola,3,4,501,73,8,428
+81,Friedhold Tschentscher,Darmstadt,5,Birthday Party,None,4,1,710,83,3,627
+82,Sina Schacht,Munich,4,Birthday Party,Champagne,10,1,783,37,10,746
+83,Rosi Renner-Gotthard,Frankfurt,5,Group Session,Coca Cola,9,4,533,109,7,424
+84,Heinrich Wilmsen,Berlin,6,Birthday Party,Coffee,7,1,302,85,6,217
+85,Ellinor Rosenow,Munich,6,Group Session,None,9,1,168,47,10,121
+86,Ramona Reinhardt-Hellwig,Berlin,9,Private Spa,Pizza,1,3,182,20,1,162
+87,Ines Jähn,Frankfurt,2,Couples Session,Champagne,1,3,223,32,3,191
+88,Rosa-Maria Graf,Hamburg,3,Group Session,None,1,1,206,118,8,88
+89,Karl-Friedrich Rust B.Eng.,Frankfurt,3,Group Session,Coca Cola,3,4,683,132,8,551
+90,Dietrich Hartmann,Berlin,4,Group Session,Pizza,6,2,473,127,2,346
+91,Christos Steckel,Munich,7,Birthday Party,Coca Cola,8,1,439,62,7,377
+92,Helmuth Seifert-Gumprich,Darmstadt,12,Group Session,Coca Cola,9,1,519,125,8,394
+93,Hannelore Schuster-Schwital,Frankfurt,3,Private Spa,Coffee,8,2,402,146,1,256
+94,Lorenz Röhrdanz,Munich,12,Birthday Party,Coffee,3,2,223,116,2,107
+95,Hans Peter Bauer B.Sc.,Hamburg,4,Couples Session,Coca Cola,10,2,333,109,5,224
+96,Sylvana Bolzmann B.A.,Hamburg,2,Private Spa,Champagne,9,3,363,116,6,247
+97,Traudel Walter,Hamburg,7,Group Session,Coffee,3,3,740,45,1,695
+98,Jiri Plath-Hamann,Munich,7,Private Spa,Coffee,6,3,166,142,9,24
+99,Leo Bien,Frankfurt,6,Group Session,Coffee,10,4,334,77,10,257
+100,Beatrix Zahn-Löwer,Munich,9,Private Spa,Coffee,6,1,646,61,10,585
+101,Univ.Prof. Uta Rudolph,Munich,8,Birthday Party,Pizza,3,3,695,135,4,560
+102,Karl-Peter Hahn,Darmstadt,7,Group Session,Coca Cola,7,4,694,38,6,656
+103,Thea Wohlgemut,Darmstadt,1,Birthday Party,Pizza,10,4,702,28,9,674
+104,Dr. Uschi Eberth,Frankfurt,4,Private Spa,None,5,2,371,95,9,276
+105,Danica Jockel-Ullrich,Darmstadt,7,Group Session,None,10,2,787,25,10,762
+106,Felix Heintze,Hamburg,7,Couples Session,None,6,3,107,101,2,6
+107,Lisa Holt,Darmstadt,10,Couples Session,Pizza,9,1,754,86,7,668
+108,Herta Hiller,Hamburg,12,Group Session,Coca Cola,9,1,388,46,4,342
+109,Julia Lindau,Frankfurt,1,Private Spa,None,9,1,290,38,8,252
+110,Annegrete Koch,Munich,10,Couples Session,Coffee,8,4,610,107,6,503
+111,Raisa Dörr B.Eng.,Munich,7,Group Session,None,10,4,701,63,7,638
+112,Ing. Karl-Hermann Schmiedecke,Darmstadt,8,Couples Session,Champagne,5,4,601,116,3,485
+113,Nuran Paffrath,Hamburg,1,Group Session,Coffee,8,4,273,61,9,212
+114,Herr Rene Schmidt B.Eng.,Berlin,6,Private Spa,Coffee,1,1,481,39,10,442
+115,Amalie Eigenwillig,Berlin,5,Private Spa,Coffee,6,1,382,43,1,339
+116,Andrej Scholl,Berlin,7,Birthday Party,None,6,2,741,106,1,635
+117,Marika Speer-Scholz,Munich,7,Couples Session,Coffee,2,1,135,143,3,-8
+118,Ottfried Schmidt,Munich,9,Birthday Party,Champagne,7,4,325,27,9,298
+119,Pietro Hartung B.A.,Hamburg,12,Private Spa,Pizza,10,4,586,130,8,456
+120,Anika Süßebier,Darmstadt,12,Group Session,Champagne,5,3,475,62,8,413
+121,Herr Gotthold Losekann B.Sc.,Berlin,9,Private Spa,Coca Cola,1,1,195,131,3,64
+122,Siegfried Eimer B.Eng.,Hamburg,10,Private Spa,Coffee,10,1,326,60,2,266
+123,Bruno Beer,Hamburg,4,Group Session,Champagne,8,2,591,33,8,558
+124,Univ.Prof. Hellmut Klotz,Darmstadt,8,Birthday Party,None,5,2,733,45,6,688
+125,Edwin Gotthard,Hamburg,4,Couples Session,Coca Cola,10,4,688,104,4,584
+126,Insa Ritter,Darmstadt,5,Private Spa,Champagne,10,3,152,72,6,80
+127,Irma Müller,Frankfurt,7,Private Spa,Coffee,4,1,620,68,5,552
+128,Reimund Benthin MBA.,Darmstadt,8,Couples Session,None,1,1,92,124,1,-32
+129,Lydia Reinhardt B.A.,Berlin,1,Private Spa,Coffee,10,3,449,87,9,362
+130,Jenny van der Dussen,Berlin,7,Couples Session,Coca Cola,8,1,404,92,4,312
+131,Dolores Werner,Darmstadt,6,Couples Session,Champagne,3,2,215,96,9,119
+132,Jörgen Schmiedt,Frankfurt,11,Couples Session,Coffee,9,3,476,80,7,396
+133,Prof. Jonas Ullrich,Frankfurt,11,Group Session,Coca Cola,10,1,662,44,7,618
+134,Dipl.-Ing. Erika Dörr B.Sc.,Berlin,7,Birthday Party,None,7,2,510,32,4,478
+135,August Schäfer,Frankfurt,12,Birthday Party,Champagne,3,2,454,120,2,334
+136,Ing. Birgitta Biggen,Hamburg,3,Group Session,Champagne,4,4,639,145,8,494
+137,Karsten Dippel MBA.,Munich,8,Birthday Party,Coca Cola,1,1,779,59,8,720
+138,Uschi Wernecke,Hamburg,3,Birthday Party,Champagne,10,3,256,33,10,223
+139,Adriane Weihmann-Loos,Berlin,10,Birthday Party,None,2,2,562,112,8,450
+140,Sonja Buchholz,Frankfurt,9,Private Spa,None,4,2,154,20,2,134
+141,Hannes Naser,Darmstadt,1,Group Session,Champagne,1,4,97,129,8,-32
+142,Sükrü Dörr,Munich,7,Birthday Party,Coffee,8,3,681,42,8,639
+143,Hilda Holsten,Darmstadt,10,Group Session,Coffee,6,4,149,95,6,54
+144,Prof. Christina Heinz B.Eng.,Berlin,10,Birthday Party,None,7,2,94,142,2,-48
+145,Hans-Henning Möchlichen,Frankfurt,11,Birthday Party,Coffee,3,1,348,71,8,277
+146,Dipl.-Ing. Francis Plath B.Eng.,Darmstadt,1,Group Session,Coca Cola,7,3,300,44,1,256
+147,Bärbel Roskoth,Darmstadt,2,Couples Session,Pizza,4,1,120,26,2,94
+148,Suzanne Döhn,Munich,11,Group Session,Champagne,7,1,141,72,7,69
+149,Frau Irmela Kusch B.A.,Munich,7,Couples Session,Coca Cola,9,4,487,63,7,424
+150,Ing. Silvester Schleich MBA.,Frankfurt,3,Private Spa,None,10,2,598,94,1,504
+151,Frida Römer,Munich,8,Group Session,Pizza,8,1,373,40,9,333
+152,Christopher Bolzmann,Darmstadt,3,Couples Session,None,1,3,723,141,9,582
+153,Prof. Kaspar Lindner,Darmstadt,1,Birthday Party,Pizza,3,4,593,49,1,544
+154,Dusan Bohnbach-Heidrich,Berlin,5,Private Spa,Coca Cola,9,3,505,98,2,407
+155,Herr Orhan Täsche B.Eng.,Darmstadt,7,Group Session,Pizza,4,1,513,121,10,392
+156,Dr. Joachim Ziegert B.Sc.,Frankfurt,6,Couples Session,Coffee,9,3,798,140,10,658
+157,Berta Kraushaar MBA.,Hamburg,4,Couples Session,Coca Cola,6,4,491,145,5,346
+158,Dipl.-Ing. Käthi Lorch B.Sc.,Berlin,8,Group Session,Champagne,8,4,164,87,9,77
+159,Witold Buchholz,Berlin,6,Couples Session,None,9,2,735,43,9,692
+160,Eitel Hering,Frankfurt,6,Group Session,Coffee,7,3,629,119,4,510
+161,Jörgen Reinhardt,Frankfurt,7,Couples Session,Champagne,6,4,630,67,8,563
+162,Univ.Prof. Mark Seip MBA.,Munich,5,Birthday Party,Pizza,3,4,710,114,6,596
+163,Lene Reising,Berlin,7,Group Session,Coffee,8,2,236,117,6,119
+164,Valerie Weinhold,Munich,5,Group Session,Champagne,9,4,364,114,1,250
+165,Christiane Schottin,Darmstadt,2,Private Spa,Coca Cola,6,1,165,67,4,98
+166,Erik Heß,Berlin,8,Birthday Party,Pizza,9,3,397,134,8,263
+167,Felix Nohlmans,Berlin,1,Group Session,Champagne,6,2,160,31,6,129
+168,Catherine Lindner,Hamburg,12,Couples Session,Pizza,5,1,603,87,9,516
+169,Madeleine Pieper,Berlin,9,Couples Session,Champagne,10,1,288,132,10,156
+170,Frau Lore Hoffmann,Darmstadt,1,Couples Session,None,8,3,239,139,10,100
+171,Felicitas Hahn,Munich,6,Private Spa,Coca Cola,4,2,629,87,8,542
+172,Ingeburg Stey,Munich,4,Group Session,Coffee,4,4,414,77,6,337
+173,Abbas Siering B.Sc.,Hamburg,11,Couples Session,Champagne,5,2,480,88,8,392
+174,Viktoria Butte,Darmstadt,2,Private Spa,Pizza,9,4,680,35,2,645
+175,Almuth Kühnert,Munich,11,Private Spa,Coca Cola,5,3,729,58,2,671
+176,Marie-Luise Nerger-Schwital,Frankfurt,1,Group Session,Coffee,4,3,745,44,4,701
+177,Ing. Zofia Stiffel,Darmstadt,1,Couples Session,Pizza,5,1,777,41,1,736
+178,Johannes Hering,Darmstadt,4,Birthday Party,Coca Cola,5,1,738,108,6,630
+179,Wencke Heidrich,Hamburg,4,Couples Session,Pizza,4,1,147,125,6,22
+180,Hans-Henning Caspar-Gerlach,Munich,1,Birthday Party,Coca Cola,8,3,397,78,5,319
+181,Dr. Reza Wohlgemut,Darmstadt,10,Birthday Party,Coffee,6,4,795,35,9,760
+182,Ilja Margraf-Geisel,Munich,3,Couples Session,Coffee,8,3,527,119,9,408
+183,Nikolaj Kabus,Frankfurt,4,Birthday Party,Pizza,6,3,324,127,6,197
+184,Edelbert Putz,Hamburg,3,Private Spa,Coca Cola,9,1,139,141,2,-2
+185,Konstantinos Junken,Frankfurt,8,Private Spa,Champagne,5,2,330,80,1,250
+186,Torben Kabus B.A.,Hamburg,11,Couples Session,Coffee,5,1,168,141,3,27
+187,Jolanda Hörle,Darmstadt,2,Group Session,Champagne,2,2,524,96,8,428
+188,Ing. Gesa Becker MBA.,Hamburg,10,Private Spa,Champagne,10,4,198,40,3,158
+189,Maria-Theresia Junitz-Dussen van,Berlin,4,Couples Session,None,9,4,544,121,7,423
+190,Conrad Wähner,Munich,8,Birthday Party,Pizza,7,4,706,28,2,678
+191,Wilhelmine Stoll,Munich,12,Private Spa,Pizza,7,1,703,148,5,555
+192,Siegmar Scholtz,Berlin,5,Couples Session,Pizza,6,1,136,57,10,79
+193,Falko Holzapfel,Frankfurt,6,Couples Session,Coca Cola,3,1,396,50,4,346
+194,Mirella Fritsch,Berlin,3,Group Session,Coffee,5,3,762,134,4,628
+195,Annegret Steinberg B.A.,Darmstadt,10,Birthday Party,Coffee,1,1,753,64,2,689
+196,William Pölitz,Darmstadt,10,Birthday Party,None,5,3,259,62,7,197
+197,Ing. Mathias Löwer,Munich,12,Birthday Party,None,2,4,202,74,4,128
+198,Dr. Magdalena Ring B.A.,Darmstadt,12,Couples Session,None,6,1,92,69,8,23
+199,Insa Losekann,Munich,2,Couples Session,Champagne,8,3,220,52,4,168
+200,Erhardt Hesse-Ring,Berlin,3,Birthday Party,Pizza,5,4,798,30,6,768
+201,Frederik Ullrich,Berlin,5,Couples Session,Coca Cola,8,4,91,128,2,-37
+202,Ing. Cosima Zimmer,Berlin,2,Group Session,Coffee,4,1,247,40,7,207
+203,Ian Haering B.Sc.,Munich,10,Couples Session,Coca Cola,4,2,588,131,1,457
+204,Carina Klemt,Berlin,1,Couples Session,Pizza,9,2,435,71,10,364
+205,Tillmann Losekann B.Sc.,Berlin,5,Private Spa,Pizza,5,4,615,57,2,558
+206,Angelica Hörle,Frankfurt,10,Group Session,Coffee,9,2,609,86,8,523
+207,Ing. Margaret Hendriks B.Eng.,Berlin,11,Private Spa,Champagne,5,2,345,101,8,244
+208,Serge Thies,Darmstadt,7,Birthday Party,None,3,3,250,37,10,213
+209,Niko Jopich MBA.,Munich,7,Birthday Party,Champagne,2,3,460,42,9,418
+210,Gerlinde Trupp,Frankfurt,12,Group Session,Pizza,10,3,209,119,3,90
+211,Bärbel Dobes,Hamburg,4,Couples Session,Pizza,10,4,355,121,8,234
+212,Marten Klemm B.A.,Munich,2,Private Spa,Champagne,4,2,200,103,1,97
+213,Sonja Wirth,Darmstadt,10,Group Session,None,4,1,110,90,9,20
+214,Darius Hartung,Munich,12,Private Spa,None,1,2,423,137,1,286
+215,Dr. Peer Seifert B.Sc.,Darmstadt,11,Couples Session,Pizza,9,4,519,23,9,496
+216,Hans Jürgen Täsche,Darmstadt,4,Private Spa,None,4,3,358,127,7,231
+217,Reinhild Franke,Hamburg,2,Group Session,None,4,4,616,48,10,568
+218,Birgitt Bonbach,Munich,12,Couples Session,Coffee,1,3,145,126,8,19
+219,Genoveva Hamann B.Eng.,Hamburg,5,Couples Session,Coffee,2,4,349,58,9,291
+220,Roy Hettner MBA.,Hamburg,11,Group Session,Coca Cola,7,1,670,57,3,613
+221,Wolf-Dieter Davids,Munich,10,Couples Session,Champagne,6,3,722,45,10,677
+222,Vladimir Dussen van B.Eng.,Berlin,2,Private Spa,Pizza,8,3,158,47,3,111
+223,Ortwin Misicher,Berlin,10,Birthday Party,None,2,2,588,45,3,543
+224,Frau Evamaria Jacob,Hamburg,1,Group Session,Coca Cola,3,4,546,93,2,453
+225,Dr. Catharina Lange,Frankfurt,6,Private Spa,Coffee,1,2,603,108,7,495
+226,Luisa Preiß,Hamburg,9,Couples Session,None,9,4,448,125,10,323
+227,Ivan Martin,Hamburg,7,Birthday Party,Champagne,3,1,136,87,10,49
+228,Mia Kitzmann,Hamburg,11,Private Spa,Coffee,7,2,591,118,6,473
+229,Dipl.-Ing. Burkhardt Plath,Berlin,6,Group Session,Pizza,8,3,660,144,9,516
+230,Univ.Prof. Elise Davids,Berlin,2,Couples Session,None,8,1,250,141,7,109
+231,Dr. Mirella Schmiedecke B.A.,Berlin,9,Group Session,Coca Cola,4,4,456,29,7,427
+232,Eleonora Spieß,Hamburg,11,Private Spa,Pizza,5,3,241,64,10,177
+233,Prof. Zeljko Ernst,Frankfurt,6,Birthday Party,None,6,4,341,90,4,251
+234,Hans-Rudolf Löchel,Berlin,1,Private Spa,None,5,3,185,123,5,62
+235,Holm Trub,Munich,7,Private Spa,None,1,4,667,56,7,611
+236,Liesel Fechner,Munich,8,Couples Session,None,2,3,770,122,6,648
+237,Aleksandra Zobel MBA.,Munich,2,Group Session,None,10,4,198,29,5,169
+238,Sylwia Mende,Darmstadt,7,Private Spa,Pizza,4,2,313,121,8,192
+239,Salvatore Schacht B.A.,Hamburg,6,Private Spa,Champagne,9,3,601,104,3,497
+240,Annita Gute B.Sc.,Munich,11,Birthday Party,Champagne,1,3,82,80,3,2
+241,Dipl.-Ing. Jane Pruschke MBA.,Hamburg,8,Birthday Party,Pizza,3,2,125,32,7,93
+242,Dr. Carmen Nette MBA.,Munich,12,Group Session,Champagne,7,4,92,141,10,-49
+243,Marie-Luise Jessel,Frankfurt,3,Group Session,Coca Cola,3,3,330,88,9,242
+244,Horst-Dieter Werner,Hamburg,7,Couples Session,Coca Cola,1,2,127,115,5,12
+245,Cilli Huhn,Munich,3,Group Session,Pizza,7,4,563,25,9,538
+246,Gerd Steckel,Berlin,12,Birthday Party,Coca Cola,8,3,452,106,6,346
+247,Concetta Salz,Hamburg,9,Group Session,Pizza,3,3,472,97,9,375
+248,Ing. Peer Jäkel MBA.,Darmstadt,11,Private Spa,Coca Cola,5,4,233,99,4,134
+249,Dr. Anna-Lena Bien B.Eng.,Berlin,5,Group Session,Coffee,1,2,263,91,4,172
+250,Mariechen Winkler B.Eng.,Berlin,10,Group Session,Pizza,1,3,116,145,4,-29
+251,Tomas Junk-Gerlach,Darmstadt,9,Couples Session,None,5,4,646,45,10,601
+252,Klaus-Werner Kühnert B.Sc.,Berlin,8,Private Spa,Coca Cola,10,3,751,78,5,673
+253,Cäcilie Ritter,Berlin,8,Couples Session,Coffee,10,4,509,54,6,455
+254,Antonios Kranz,Munich,7,Birthday Party,Pizza,2,3,309,96,3,213
+255,Harro Ring B.Eng.,Munich,12,Group Session,Coca Cola,6,1,409,133,3,276
+256,Marietta Sorgatz,Hamburg,10,Group Session,None,5,2,334,102,9,232
+257,Jörg-Peter Buchholz,Hamburg,5,Birthday Party,Coca Cola,8,2,506,88,9,418
+258,Caren Ladeck,Hamburg,6,Couples Session,Coffee,9,1,407,126,6,281
+259,Univ.Prof. Heinz-Günter Killer B.Eng.,Munich,4,Private Spa,Champagne,9,4,357,42,2,315
+260,Korbinian Ehlert,Hamburg,2,Couples Session,Champagne,8,2,159,68,6,91
+261,Ignatz Speer B.Sc.,Berlin,5,Couples Session,Coffee,3,4,665,133,9,532
+262,Dr. Zbigniew Gierschner B.Eng.,Munich,8,Private Spa,Coffee,9,3,461,74,8,387
+263,Univ.Prof. Hans Peter Ruppert B.Sc.,Hamburg,4,Group Session,Pizza,8,1,202,124,10,78
+264,Gretchen Gerlach-Ullmann,Berlin,8,Couples Session,Champagne,5,4,594,144,10,450
+265,Reinhard Schüler,Hamburg,10,Birthday Party,Pizza,4,4,769,115,7,654
+266,Jochem Beier,Frankfurt,10,Private Spa,Coca Cola,2,2,133,34,9,99
+267,Jonathan Fiebig,Hamburg,11,Group Session,Coffee,6,3,263,60,5,203
+268,Dipl.-Ing. Knut Holt B.Sc.,Frankfurt,7,Private Spa,Pizza,3,2,308,36,7,272
+269,Leon Johann MBA.,Hamburg,6,Birthday Party,Coffee,8,3,608,99,1,509
+270,Josephine Langern,Darmstadt,1,Private Spa,Pizza,5,2,127,149,9,-22
+271,Frau Thea Fliegner B.Sc.,Hamburg,8,Private Spa,Coca Cola,3,4,490,123,2,367
+272,Dr. Mohammad Stiffel,Munich,6,Couples Session,Coca Cola,1,4,150,54,1,96
+273,Regina Kraus,Munich,3,Birthday Party,None,6,1,556,27,7,529
+274,Dörte Bohnbach,Frankfurt,8,Birthday Party,Champagne,5,4,369,64,3,305
+275,Nancy Pärtzelt MBA.,Munich,4,Birthday Party,None,10,4,398,69,1,329
+276,Otmar Matthäi,Berlin,6,Private Spa,Champagne,4,4,415,71,1,344
+277,Alexa Wilmsen,Darmstadt,5,Birthday Party,Coca Cola,3,4,168,34,4,134
+278,Marie Bruder-Wulff,Darmstadt,6,Birthday Party,Pizza,10,1,646,83,5,563
+279,Prof. Walfried Plath MBA.,Berlin,5,Birthday Party,Coffee,7,3,547,28,3,519
+280,Felix Kabus,Frankfurt,10,Couples Session,Coca Cola,7,1,88,136,5,-48
+281,Stanislav Gorlitz,Berlin,12,Birthday Party,Coca Cola,9,1,457,32,5,425
+282,Wanda Knappe,Berlin,5,Private Spa,Pizza,6,2,285,112,3,173
+283,Tatjana Beier B.Eng.,Darmstadt,9,Couples Session,Coca Cola,2,3,378,70,1,308
+284,Univ.Prof. Nikolai Ackermann,Hamburg,1,Birthday Party,Coca Cola,7,2,657,90,5,567
+285,Prof. Catherine Grein Groth B.Sc.,Darmstadt,9,Birthday Party,Pizza,2,1,391,114,4,277
+286,Ali Hoffmann,Darmstadt,4,Couples Session,Coca Cola,3,4,717,138,9,579
+287,Erkan Werner,Munich,2,Birthday Party,Champagne,3,3,328,149,1,179
+288,Prof. Klaus-D. Matthäi,Berlin,4,Private Spa,Champagne,8,4,555,121,6,434
+289,Alfred Stey B.Eng.,Darmstadt,12,Private Spa,Champagne,6,1,457,51,8,406
+290,Tilmann Beer-Süßebier,Berlin,7,Birthday Party,Champagne,4,1,685,27,2,658
+291,Kurt Noack,Munich,8,Private Spa,Coca Cola,1,1,585,81,10,504
+292,Dorit Scheuermann,Berlin,9,Couples Session,Coffee,5,3,280,115,9,165
+293,Milena Patberg,Darmstadt,4,Birthday Party,Champagne,7,2,639,145,4,494
+294,Lidia Baum,Berlin,12,Couples Session,Champagne,4,2,331,134,9,197
+295,Dipl.-Ing. Renata Röhricht B.A.,Munich,8,Private Spa,Coca Cola,8,4,234,65,7,169
+296,Ernst-Dieter Sorgatz,Hamburg,11,Birthday Party,None,5,3,86,141,4,-55
+297,Frau Cristina Höfig MBA.,Berlin,12,Couples Session,Coca Cola,6,4,499,109,9,390
+298,Heinz-Dieter Fröhlich,Darmstadt,8,Private Spa,Pizza,5,4,104,108,5,-4
+299,Natascha Dobes,Munich,8,Birthday Party,Champagne,10,2,318,61,1,257
+300,Ildiko Karge B.Eng.,Darmstadt,1,Group Session,Pizza,10,3,634,86,7,548
+301,Univ.Prof. Vitali Kabus B.Sc.,Darmstadt,2,Private Spa,Champagne,1,1,434,43,7,391
+302,Pawel Jäkel,Berlin,5,Private Spa,None,5,4,731,92,7,639
+303,Hans Georg Lachmann,Darmstadt,4,Group Session,Coffee,6,1,790,27,6,763
+304,Univ.Prof. Heinz-Günter Tintzmann,Berlin,7,Group Session,None,4,3,89,118,9,-29
+305,Roderich Langern B.Sc.,Hamburg,12,Couples Session,Coca Cola,1,4,423,32,1,391
+306,Helene Gertz MBA.,Darmstadt,4,Private Spa,Coca Cola,2,1,81,61,1,20
+307,Rosel Segebahn,Darmstadt,5,Group Session,Pizza,8,1,753,74,5,679
+308,Carmelo Sontag B.A.,Darmstadt,11,Birthday Party,Pizza,5,2,465,76,4,389
+309,Hanife Henk-Weller,Frankfurt,10,Private Spa,Coca Cola,3,3,394,77,10,317
+310,Ernst-Otto Scholl MBA.,Frankfurt,6,Couples Session,Coca Cola,7,3,186,72,8,114
+311,Edeltrud Förster B.Sc.,Munich,8,Group Session,Coca Cola,9,3,290,88,4,202
+312,Dimitri Wulff,Frankfurt,9,Private Spa,Champagne,5,4,622,124,6,498
+313,Ludmilla Bender,Munich,9,Private Spa,None,2,2,323,25,10,298
+314,Arif Bonbach-Staude,Frankfurt,6,Group Session,Champagne,5,4,509,22,9,487
+315,Cosima Hofmann,Hamburg,7,Group Session,Coffee,6,3,583,141,10,442
+316,Rose-Marie Mende-Holsten,Munich,12,Group Session,Champagne,10,4,141,53,4,88
+317,Irina Zorbach,Frankfurt,9,Private Spa,Coca Cola,4,1,225,64,4,161
+318,Anika Trubin,Hamburg,6,Group Session,Champagne,4,4,366,22,5,344
+319,Frank Henk-Juncken,Frankfurt,6,Group Session,Pizza,3,4,175,77,8,98
+320,Vito Sauer,Berlin,12,Private Spa,Coca Cola,8,3,124,84,3,40
+321,Harold Misicher B.Sc.,Berlin,8,Private Spa,None,3,1,317,98,2,219
+322,Polina Wohlgemut,Hamburg,5,Couples Session,Champagne,8,3,612,90,3,522
+323,Prof. Rolf-Dieter Schacht,Darmstadt,5,Birthday Party,Coca Cola,10,1,502,128,3,374
+324,Univ.Prof. Carola Schinke,Darmstadt,5,Private Spa,Pizza,6,1,797,116,9,681
+325,Mina Hahn,Berlin,4,Birthday Party,Pizza,7,1,461,109,2,352
+326,Ann-Kathrin Kruschwitz,Berlin,2,Couples Session,Champagne,9,3,549,137,7,412
+327,Marica Hesse,Darmstadt,12,Couples Session,Coca Cola,8,1,166,84,1,82
+328,Brunhild Krause,Munich,4,Group Session,None,9,2,674,75,7,599
+329,Elli Bärer B.Sc.,Darmstadt,6,Couples Session,Coffee,4,2,177,139,5,38
+330,Sylvio Neuschäfer,Frankfurt,2,Group Session,Pizza,4,2,597,97,9,500
+331,Prof. Cäcilie Sauer B.Sc.,Munich,12,Group Session,Coffee,10,2,216,121,5,95
+332,Gundula Dörr,Frankfurt,9,Private Spa,None,2,3,732,46,3,686
+333,Songül Binner,Berlin,12,Private Spa,Champagne,9,4,483,21,3,462
+334,Janusz Wirth B.Sc.,Munich,3,Birthday Party,Pizza,8,4,156,150,10,6
+335,Dipl.-Ing. Sebastian Baum B.A.,Frankfurt,4,Group Session,Coffee,9,2,686,115,5,571
+336,Kay-Uwe Eckbauer,Frankfurt,4,Group Session,Pizza,6,4,661,92,1,569
+337,Ing. Gerdi Täsche,Munich,12,Birthday Party,Coffee,2,2,143,96,6,47
+338,Luka Niemeier B.Sc.,Hamburg,8,Group Session,Coca Cola,10,2,525,47,8,478
+339,Marina Radisch B.Sc.,Darmstadt,5,Couples Session,Coca Cola,2,4,758,143,3,615
+340,Ruth Döring,Frankfurt,12,Group Session,Champagne,1,4,213,36,1,177
+341,Theodoros Hartung,Darmstadt,10,Group Session,None,9,1,322,106,3,216
+342,Valeria Schleich B.Eng.,Darmstadt,9,Group Session,Pizza,9,2,378,90,6,288
+343,Antonios Dobes,Berlin,10,Private Spa,None,4,4,347,103,10,244
+344,Ludmila Paffrath,Darmstadt,5,Couples Session,Coffee,10,4,402,90,1,312
+345,Gernot Neuschäfer B.Sc.,Frankfurt,2,Group Session,Champagne,9,4,482,86,10,396
+346,Henrik Biggen,Berlin,4,Couples Session,Coca Cola,3,1,797,96,5,701
+347,Cäcilie Naser,Munich,5,Couples Session,Coca Cola,3,2,414,68,8,346
+348,Tania Keudel-Stumpf,Frankfurt,4,Couples Session,Champagne,6,2,405,58,10,347
+349,Frau Johanne Winkler B.Eng.,Berlin,6,Birthday Party,Pizza,9,3,543,81,9,462
+350,Carola Liebelt,Berlin,3,Group Session,None,8,1,358,34,6,324
+351,Violetta Bohnbach B.Sc.,Darmstadt,5,Private Spa,Coffee,2,1,319,123,2,196
+352,Florentine Henschel B.A.,Munich,1,Private Spa,None,4,2,156,101,6,55
+353,Lorenzo Franke,Frankfurt,12,Private Spa,Coca Cola,10,3,287,55,9,232
+354,Hans-Joachim Oderwald,Frankfurt,9,Private Spa,Champagne,8,3,219,26,4,193
+355,Birgit Eberhardt,Darmstadt,3,Group Session,Coca Cola,2,2,678,147,3,531
+356,Valerie Klingelhöfer,Munich,5,Private Spa,Coca Cola,9,4,191,95,9,96
+357,Rosalia Mangold-Dehmel,Frankfurt,1,Couples Session,Coffee,8,1,239,86,2,153
+358,Hannah Heser,Munich,1,Birthday Party,Pizza,1,3,188,127,9,61
+359,Giuseppina Bohnbach-Scholl,Frankfurt,9,Private Spa,Pizza,8,4,248,123,3,125
+360,Prof. Samira Kambs MBA.,Darmstadt,5,Couples Session,Coffee,3,3,540,119,7,421
+361,Marietta Thanel-Faust,Hamburg,12,Private Spa,Champagne,9,4,557,29,9,528
+362,Dipl.-Ing. Lena Nohlmans B.A.,Frankfurt,3,Group Session,None,7,4,401,68,9,333
+363,Detlef Kitzmann,Berlin,11,Couples Session,Champagne,8,1,496,107,7,389
+364,Herr Georg Kühnert,Berlin,8,Group Session,None,10,3,203,76,2,127
+365,Dr. Elisabeth Reichmann MBA.,Hamburg,2,Private Spa,Pizza,1,3,628,141,6,487
+366,Bertram Gude B.A.,Frankfurt,1,Couples Session,Coca Cola,9,4,446,111,4,335
+367,Anne-Kathrin Meyer,Berlin,10,Couples Session,Coca Cola,8,2,292,149,4,143
+368,Hüseyin Lorch-Austermühle,Berlin,5,Couples Session,Champagne,5,3,542,96,6,446
+369,Ing. Delia Weller B.Sc.,Frankfurt,8,Private Spa,Coffee,1,1,395,63,6,332
+370,Arnd Rudolph,Munich,8,Birthday Party,None,7,2,554,66,6,488
+371,Emmy Hering-Seip,Frankfurt,8,Birthday Party,Coca Cola,5,3,351,95,5,256
+372,Univ.Prof. Hans Peukert,Munich,6,Group Session,Champagne,1,1,202,44,4,158
+373,Prof. Annett Beyer,Hamburg,3,Birthday Party,Coffee,4,2,172,140,10,32
+374,Krystyna Söding,Darmstadt,1,Private Spa,Pizza,10,3,241,52,9,189
+375,Amalie Pergande,Hamburg,5,Couples Session,Coffee,2,1,782,86,8,696
+376,Betty Seifert,Darmstadt,8,Couples Session,Pizza,1,2,391,66,9,325
+377,Grzegorz Sontag B.Sc.,Berlin,2,Private Spa,Champagne,7,3,793,105,1,688
+378,Dipl.-Ing. Mona Scheel B.Eng.,Berlin,2,Couples Session,Coffee,6,2,697,42,2,655
+379,Babette Wilmsen,Berlin,7,Birthday Party,Champagne,2,4,121,76,6,45
+380,Dr. Elvira Rust,Munich,8,Group Session,Pizza,9,4,300,110,8,190
+381,Heidelinde Vollbrecht,Darmstadt,2,Private Spa,Coca Cola,1,2,415,77,4,338
+382,Susan Becker,Berlin,10,Couples Session,Coca Cola,2,4,231,98,10,133
+383,Karin Geisel,Frankfurt,11,Private Spa,Pizza,8,4,173,127,10,46
+384,Yasemin Drub,Darmstadt,11,Birthday Party,None,1,2,334,104,4,230
+385,Gordon Kambs,Darmstadt,1,Couples Session,None,5,4,444,115,1,329
+386,Prof. Michael Hartmann,Munich,3,Couples Session,Coca Cola,7,2,485,86,6,399
+387,Claus-Peter Lindner,Hamburg,3,Couples Session,Coca Cola,3,2,605,95,7,510
+388,Ingried Rosenow,Munich,10,Couples Session,Coffee,3,4,130,138,2,-8
+389,Reinhold Ackermann-Segebahn,Berlin,5,Private Spa,Coffee,7,3,773,50,7,723
+390,Traugott Säuberlich,Frankfurt,2,Birthday Party,Coca Cola,6,2,386,140,5,246
+391,Dr. Ismet Haering B.A.,Frankfurt,4,Birthday Party,None,7,2,346,33,9,313
+392,Dr. Sina Schulz,Berlin,2,Group Session,Coffee,8,3,258,38,5,220
+393,Hildburg Hettner,Frankfurt,9,Private Spa,Pizza,7,4,111,140,1,-29
+394,Fedor Klotz B.A.,Munich,7,Birthday Party,Coffee,7,1,494,69,9,425
+395,Karlheinz Weinhold,Munich,10,Private Spa,Coffee,2,3,543,148,6,395
+396,Dipl.-Ing. Nadja Dehmel B.Sc.,Berlin,10,Private Spa,Coffee,9,1,649,50,9,599
+397,Amelie Heintze,Frankfurt,10,Birthday Party,Champagne,3,4,643,117,9,526
+398,Dr. Aleksej Hellwig,Darmstadt,4,Group Session,Pizza,6,2,335,96,8,239
+399,Sybille Käster MBA.,Hamburg,9,Group Session,Coca Cola,2,2,176,125,8,51
+400,Sepp Trubin,Darmstadt,7,Group Session,None,3,4,553,33,1,520
+401,Vitus Gotthard,Munich,8,Couples Session,None,9,4,184,58,5,126
+402,Katarzyna Putz,Munich,8,Birthday Party,Coca Cola,7,4,223,55,4,168
+403,Ing. Isolde Gierschner,Munich,5,Couples Session,Champagne,9,4,204,71,6,133
+404,Edgar Hermighausen,Munich,10,Couples Session,None,3,4,92,107,9,-15
+405,Dipl.-Ing. Caroline Kreusel B.Eng.,Hamburg,7,Couples Session,Coffee,4,4,143,124,2,19
+406,Peter-Michael Hering,Berlin,5,Private Spa,None,1,4,307,137,2,170
+407,Francis Römer,Munich,10,Private Spa,Pizza,1,2,213,56,3,157
+408,Nadia Renner-Fiebig,Frankfurt,10,Birthday Party,Pizza,5,1,282,100,9,182
+409,Inken Löffler,Hamburg,1,Birthday Party,Coca Cola,8,1,490,66,9,424
+410,Luise Beyer B.Sc.,Munich,10,Private Spa,Champagne,9,2,461,40,1,421
+411,Tatjana Haase,Frankfurt,12,Private Spa,Champagne,7,3,782,144,2,638
+412,Frau Evelin Aumann,Munich,2,Couples Session,None,9,1,725,105,4,620
+413,Mehdi Becker-Schmiedt,Berlin,4,Group Session,Champagne,7,3,740,65,4,675
+414,Bruno Preiß B.Eng.,Hamburg,11,Group Session,Champagne,4,2,166,100,7,66
+415,Salih Drewes B.Sc.,Berlin,4,Group Session,None,4,3,676,34,2,642
+416,Prof. Ehrenfried Putz MBA.,Hamburg,5,Group Session,Pizza,8,2,680,21,4,659
+417,Tadeusz Mentzel,Munich,11,Group Session,Coffee,6,4,345,135,9,210
+418,Heinz-Willi Hermighausen,Munich,2,Couples Session,Coca Cola,3,4,156,90,7,66
+419,Arne Keudel B.Eng.,Hamburg,3,Birthday Party,Pizza,5,1,102,73,2,29
+420,Dipl.-Ing. Franz-Peter Jüttner B.A.,Frankfurt,4,Private Spa,Champagne,4,1,146,63,3,83
+421,Dipl.-Ing. Wieslaw Ullrich B.A.,Frankfurt,3,Couples Session,Champagne,2,3,282,60,1,222
+422,Ada Mohaupt,Munich,9,Group Session,None,1,3,741,145,8,596
+423,Mijo Reising B.A.,Munich,2,Private Spa,Coca Cola,7,1,534,42,6,492
+424,Dogan Eckbauer,Berlin,3,Couples Session,Coffee,10,4,211,53,1,158
+425,Renata Gorlitz,Munich,1,Group Session,None,1,2,174,131,2,43
+426,Cäcilia Herrmann,Hamburg,7,Couples Session,None,4,4,419,129,2,290
+427,Gitta Nohlmans,Frankfurt,8,Private Spa,Coffee,4,1,205,123,1,82
+428,Dr. Hans-Michael Wilms B.Eng.,Frankfurt,12,Birthday Party,Coffee,2,2,123,129,3,-6
+429,Hans-H. Ring,Berlin,10,Group Session,Champagne,2,3,552,142,5,410
+430,Nick Häring-Juncken,Frankfurt,8,Private Spa,None,10,1,131,118,9,13
+431,Kornelia Hering MBA.,Frankfurt,5,Private Spa,Pizza,1,4,252,21,2,231
+432,Rita Steinberg,Darmstadt,1,Birthday Party,Pizza,8,3,667,29,10,638
+433,Heino Weihmann-Löchel,Hamburg,4,Couples Session,None,10,3,523,71,4,452
+434,Nadeschda Winkler-Dippel,Darmstadt,5,Birthday Party,Coffee,1,1,484,115,5,369
+435,Luzia Dietz,Frankfurt,12,Birthday Party,Coca Cola,4,4,588,23,7,565
+436,Götz Fritsch,Berlin,5,Couples Session,Coffee,1,1,110,102,7,8
+437,Prof. Ernst-Dieter Butte,Berlin,12,Couples Session,Coffee,7,2,471,68,8,403
+438,Jennifer Hahn B.Sc.,Frankfurt,8,Couples Session,Coca Cola,8,2,779,24,7,755
+439,Frau Anneli Scheuermann B.Sc.,Munich,2,Private Spa,Coffee,4,3,516,21,7,495
+440,Katarzyna Seidel,Darmstadt,11,Private Spa,Coca Cola,9,4,256,83,6,173
+441,Ian Huhn,Frankfurt,4,Group Session,None,4,2,442,77,1,365
+442,Marion Fischer,Berlin,5,Group Session,Coca Cola,1,2,299,108,7,191
+443,Gabriela Schinke MBA.,Berlin,11,Birthday Party,Pizza,3,2,271,99,2,172
+444,Kriemhild Schäfer B.Eng.,Darmstadt,10,Birthday Party,Coca Cola,9,2,361,53,9,308
+445,Ing. Therese Sauer,Hamburg,11,Group Session,Coffee,5,1,366,46,1,320
+446,Gitta Gute-Lange,Frankfurt,4,Birthday Party,None,4,3,536,118,10,418
+447,Marie-Louise Henk,Frankfurt,7,Couples Session,Coca Cola,10,3,232,148,2,84
+448,Marcel Schuster,Hamburg,2,Private Spa,Coffee,6,2,115,98,10,17
+449,Nora Hoffmann,Darmstadt,9,Group Session,Coca Cola,10,3,708,62,1,646
+450,Ing. Marian Scheel,Darmstadt,4,Private Spa,None,10,3,714,36,2,678
+451,Gero Barkholz,Berlin,11,Group Session,None,6,3,711,31,6,680
+452,Armin Paffrath,Hamburg,3,Private Spa,Pizza,4,3,331,96,9,235
+453,Dr. Karl-Peter Losekann,Darmstadt,5,Group Session,None,5,1,742,94,2,648
+454,Univ.Prof. Adam Eckbauer B.Sc.,Munich,3,Private Spa,Coffee,3,2,382,136,5,246
+455,Valeria Bachmann,Frankfurt,2,Couples Session,None,9,4,590,106,5,484
+456,Stjepan Ring-Schaaf,Berlin,1,Group Session,None,4,1,501,131,10,370
+457,Valerie Schomber MBA.,Hamburg,3,Group Session,Coffee,7,3,643,54,2,589
+458,Magdalena Lindner,Berlin,5,Group Session,Coffee,5,2,570,107,5,463
+459,Univ.Prof. Ralf Stiebitz,Darmstadt,10,Couples Session,None,5,2,142,145,8,-3
+460,Ing. Jochen Naser,Darmstadt,12,Private Spa,None,1,2,169,111,7,58
+461,Prof. Hanni Paffrath B.Sc.,Munich,10,Group Session,Coca Cola,9,2,366,68,7,298
+462,Stephen Bohnbach,Frankfurt,5,Private Spa,None,10,3,472,62,1,410
+463,Univ.Prof. Ernestine Gorlitz B.Eng.,Hamburg,8,Couples Session,Pizza,3,2,220,123,8,97
+464,Klaudia Mühle,Berlin,2,Birthday Party,Pizza,7,4,509,24,3,485
+465,Samuel Boucsein,Frankfurt,8,Group Session,Pizza,9,4,284,78,9,206
+466,Ahmad Renner,Darmstadt,12,Couples Session,Pizza,8,2,738,77,4,661
+467,Othmar Pieper,Frankfurt,5,Private Spa,None,1,3,618,53,3,565
+468,Heinrich Werner-Briemer,Berlin,12,Group Session,Coca Cola,6,4,335,74,7,261
+469,Berit Barth,Frankfurt,7,Private Spa,Coffee,7,4,725,25,9,700
+470,Slawomir Jäntsch,Darmstadt,5,Birthday Party,None,9,4,636,149,5,487
+471,Brunhild Löffler MBA.,Frankfurt,9,Group Session,Champagne,6,1,99,63,3,36
+472,Kazim Ruppersberger,Hamburg,9,Group Session,None,7,1,471,51,5,420
+473,Herr William Dippel MBA.,Frankfurt,8,Private Spa,Pizza,7,4,447,113,6,334
+474,Wibke Hiller,Hamburg,8,Group Session,Champagne,3,3,571,29,1,542
+475,Herr Enver Hiller,Frankfurt,2,Couples Session,None,5,3,637,116,9,521
+476,Dipl.-Ing. Nicole Blümel MBA.,Darmstadt,10,Couples Session,Coca Cola,7,4,576,85,9,491
+477,Klara Trubin-Kühnert,Munich,1,Birthday Party,Coca Cola,3,4,432,32,3,400
+478,Dolores Holzapfel-Neureuther,Munich,7,Couples Session,Champagne,9,3,659,32,2,627
+479,Margarita Ruppert,Hamburg,12,Birthday Party,Coffee,8,1,594,47,1,547
+480,Alice Schäfer,Hamburg,6,Private Spa,Champagne,4,1,409,25,1,384
+481,Dipl.-Ing. Antonio Hövel,Munich,10,Private Spa,Coca Cola,4,4,477,32,10,445
+482,Ing. Melita Hethur,Darmstadt,5,Birthday Party,Champagne,5,3,356,49,10,307
+483,Irina Henck,Darmstadt,1,Couples Session,Pizza,3,1,264,126,7,138
+484,Evangelia Etzold,Frankfurt,2,Couples Session,Pizza,8,4,106,133,9,-27
+485,Arndt Graf,Hamburg,4,Birthday Party,Coffee,1,2,406,117,9,289
+486,Hilda Stoll,Darmstadt,11,Birthday Party,Champagne,9,4,691,51,2,640
+487,Danilo Seifert,Berlin,10,Private Spa,Champagne,7,2,304,84,5,220
+488,Angelika Bien,Frankfurt,10,Birthday Party,Champagne,7,4,110,141,4,-31
+489,Dietmar Hölzenbecher,Frankfurt,1,Couples Session,Champagne,9,3,367,59,6,308
+490,Sieglinde Wagner,Munich,11,Birthday Party,Coffee,9,3,139,72,4,67
+491,Sina Kostolzin,Hamburg,5,Birthday Party,Coca Cola,3,3,563,22,7,541
+492,Ivanka Losekann,Darmstadt,10,Birthday Party,None,7,3,622,97,9,525
+493,Natalia Schönland,Darmstadt,1,Private Spa,Coffee,4,2,446,127,3,319
+494,Dipl.-Ing. Jasmin Gröttner,Frankfurt,3,Birthday Party,Coca Cola,5,4,678,45,3,633
+495,Ing. Rose Hänel B.Eng.,Hamburg,8,Group Session,Coca Cola,4,3,318,89,3,229
+496,Marika Mangold-Ladeck,Hamburg,9,Group Session,Coca Cola,6,1,243,55,4,188
+497,Sigrid Hertrampf,Hamburg,11,Group Session,Champagne,2,1,182,127,10,55
+498,Mechthilde Döhn B.A.,Munich,8,Couples Session,Coffee,8,1,333,46,5,287
+499,Ing. Lieschen Rörricht,Darmstadt,5,Couples Session,Coca Cola,6,4,752,150,4,602
+500,Natalja Löwer,Hamburg,3,Birthday Party,None,2,1,326,50,2,276
